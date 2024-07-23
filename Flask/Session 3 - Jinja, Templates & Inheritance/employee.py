@@ -1,0 +1,28 @@
+employees_data={
+    1:{
+        "name":"michael",
+        "age":42,
+        "position":"Manager"
+    },
+    2:{
+        "name":"dwight",
+        "age":35,
+        "position":"SalesPerson"
+    },
+    3:{
+        "name":"pam",
+        "age":23,
+        "position":"Receptionist"
+    },
+    4:{
+        "name":"jim",
+        "age":31,
+        "position":"Salesperson"
+    },
+    5:{
+        "name":"Josh",
+        "age":40,
+        "position":"Manager"
+    }
+
+}
